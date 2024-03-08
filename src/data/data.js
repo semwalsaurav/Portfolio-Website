@@ -6,6 +6,7 @@ import Password from '../assets/projects/Password.png'
 import Top from '../assets/projects/Top.png'
 import Random from '../assets/projects/Random.png'
 import Sketch from '../assets/projects/Sketch.png'
+import Portfolio from '../assets/projects/portfolio.png'
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import {
@@ -41,7 +42,7 @@ export const data=[
     {
         id:3,
         name:"Portfolio",
-        image:Razorpay,
+        image:Portfolio,
         github:"https://github.com/semwalsaurav/Portfolio-Website",
         live:"https://saurav-semwal.vercel.app/",
     },
