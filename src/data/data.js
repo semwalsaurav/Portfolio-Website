@@ -40,10 +40,10 @@ export const data=[
     },
     {
         id:3,
-        name:"Razorpay",
+        name:"Portfolio",
         image:Razorpay,
-        github:"",
-        live:"https://merry-crepe-8b2b85.netlify.app/",
+        github:"https://github.com/semwalsaurav/Portfolio-Website",
+        live:"https://saurav-semwal.vercel.app/",
     },
     {
         id:4,
@@ -52,15 +52,8 @@ export const data=[
         github:"",
         live:"https://random-gif-starter-rho.vercel.app/",
     },
-    // {
-    //     id:5,
-    //     name:"Top Course",
-    //     image:Top,
-    //     github:"",
-    //     live:"https://top-course-project-sigma.vercel.app/",
-    // },
     {
-        id:6,
+        id:5,
         name:"Password Generator",
         image:Password,
         github:"",
