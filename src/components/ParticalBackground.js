@@ -34,7 +34,7 @@ export const BackgroundApp = () => {
           value: "white",
         },
       },
-      fpsLimit: 120,
+      fpsLimit: 119,
       interactivity: {
         events: {
           onClick: {
